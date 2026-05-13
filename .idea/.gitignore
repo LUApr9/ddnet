@@ -1,0 +1,8 @@
+# 默认忽略的文件
+/shelf/
+/workspace.xml
+
+# 忽略模型训练产物与实验结果文件（相对于 .idea 目录）
+../models/
+../models_pretrain/
+../results/

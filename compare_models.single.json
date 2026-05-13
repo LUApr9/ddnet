@@ -1,0 +1,26 @@
+{
+  "enabled": true,
+  "run_single": true,
+  "run_batch": false,
+  "single_select_id": [1, 2],
+  "save_preview": true,
+  "show_preview": false,
+  "sort_by": "mae_mean",
+  "models": [
+    {
+      "alias": "DDNet70-S3",
+      "model_type": "DDNet70",
+      "model_path": "models/CurveFaultAModel/CurveFaultA_CLStage3_TrSize3_AllEpo100_CurEpo100.pkl"
+    },
+    {
+      "alias": "InversionNet-E2",
+      "model_type": "InversionNet",
+      "model_path": "models/CurveFaultAModel/InversionNet_CurEpo2.pkl"
+    },
+    {
+      "alias": "FCNVMB-E2",
+      "model_type": "FCNVMB",
+      "model_path": "models/CurveFaultAModel/FCNVMB_CurEpo2.pkl"
+    }
+  ]
+}

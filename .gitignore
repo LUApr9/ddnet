@@ -1,0 +1,8 @@
+# 模型训练产物
+models/
+models_pretrain/
+
+# 实验结果
+results/
+data/
+ddnet-main/modules/system_reminder/

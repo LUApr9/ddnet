@@ -1,0 +1,1 @@
+This directory contains the design and implementation planning artifacts for the System Reminder Qt embedded module. It is kept separate from the host application to enable easier reuse and independent testing.

@@ -1,0 +1,1 @@
+This directory is reserved for future UI assets (fonts, icons, styles) for the System Reminder module. It currently contains only a placeholder file.
