@@ -1,0 +1,9 @@
+dataset: CurveFaultA
+model_type: DDNet70
+model_path: results/CurveFaultAResults/unused_pretrain/DDNet70/CurveFaultA/CurveFaultA_CLStage3_unused_pretrain_TrSize1000_AllEpo120_CurEpo120.pkl
+select_id: [1, 2]
+mse: 0.06434549
+mae: 0.20050238
+uqi: 0.85963950
+lpips: 0.18977369
+elapsed_seconds: 0.038985

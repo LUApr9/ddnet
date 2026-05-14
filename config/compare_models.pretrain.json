@@ -1,0 +1,26 @@
+{
+  "enabled": true,
+  "run_single": true,
+  "run_batch": true,
+  "single_select_id": [1, 2],
+  "save_preview": true,
+  "show_preview": true,
+  "sort_by": "mse_mean",
+  "models": [
+    {
+      "alias": "Scratch",
+      "model_type": "DDNet70",
+      "model_path": "results/CurveFaultAResults/unused_pretrain/DDNet70/CurveFaultA/CurveFaultA_CLStage3_unused_pretrain_TrSize1000_AllEpo120_CurEpo120.pkl"
+    },
+    {
+      "alias": "Sup-Mig",
+      "model_type": "DDNet70",
+      "model_path": "results/CurveFaultAResults/used_pretrain/DDNet70/CurveFaultA/CurveFaultA_CLStage3_used_pretrain_TrSize1000_AllEpo120_CurEpo120.pkl"
+    },
+    {
+      "alias": "Self-Sup",
+      "model_type": "DDNet70",
+      "model_path": "results/CurveFaultAResults/self_sup/DDNet70/CurveFaultA/CurveFaultA_CLStage3_used_pretrain_TrSize1000_AllEpo120_CurEpo120.pkl"
+    }
+  ]
+}

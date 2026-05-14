@@ -1,0 +1,15 @@
+{
+  "mode_dir": "used_pretrain",
+  "model_type": "DDNet70",
+  "load_pretrained": "models_pretrain\\CurveFaultAModel\\DDNet70_SrcMix2_TgtCurveFaultA_PreEpo100_20260402_174016.pkl",
+  "finetune_lr_scale": 0.1,
+  "learning_rate": 0.001,
+  "train_size": 1000,
+  "train_batch_size": 64,
+  "firststage_epochs": 10,
+  "secondstage_epochs": 10,
+  "thirdstage_epochs": 120,
+  "dataset": "CurveFaultA",
+  "inchannels": 5,
+  "classes": 1
+}

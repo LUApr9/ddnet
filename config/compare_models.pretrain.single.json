@@ -1,0 +1,21 @@
+{
+  "enabled": true,
+  "run_single": true,
+  "run_batch": false,
+  "single_select_id": [1, 2],
+  "save_preview": true,
+  "show_preview": false,
+  "sort_by": "mse_mean",
+  "models": [
+    {
+      "alias": "Baseline-DDNet70-Scratch",
+      "model_type": "DDNet70",
+      "model_path": "models/CurveFaultAModel/REPLACE_WITH_BASELINE_MODEL.pkl"
+    },
+    {
+      "alias": "Proposed-DDNet70-PretrainFinetune",
+      "model_type": "DDNet70",
+      "model_path": "models/CurveFaultAModel/REPLACE_WITH_FINETUNED_MODEL.pkl"
+    }
+  ]
+}

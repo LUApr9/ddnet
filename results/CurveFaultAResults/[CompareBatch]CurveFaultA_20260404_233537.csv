@@ -1,0 +1,4 @@
+rank,status,alias,model_type,model_path,mse_mean,mae_mean,uqi_mean,lpips_mean,elapsed_seconds,per_sample_seconds,error
+1,ok,Sup-Mig,DDNet70,results/CurveFaultAResults/used_pretrain/DDNet70/CurveFaultA/CurveFaultA_CLStage3_used_pretrain_TrSize1000_AllEpo120_CurEpo120.pkl,0.017058951813727616,0.08866580894216895,0.742510319566765,0.28207352352142334,44.27114915847778,0.04427114915847778,
+2,ok,Self-Sup,DDNet70,results/CurveFaultAResults/self_sup/DDNet70/CurveFaultA/CurveFaultA_CLStage3_used_pretrain_TrSize1000_AllEpo120_CurEpo120.pkl,0.04655750843137502,0.16213787451386452,0.6999445601812292,0.2869489007741213,21.750436305999756,0.021750436305999755,
+3,ok,Scratch,DDNet70,results/CurveFaultAResults/unused_pretrain/DDNet70/CurveFaultA/CurveFaultA_CLStage3_unused_pretrain_TrSize1000_AllEpo120_CurEpo120.pkl,0.04919160076230764,0.1663421380892396,0.706215354631178,0.2707602933198214,38.76888680458069,0.03876888680458069,
