@@ -123,5 +123,5 @@ python model_test.py
 启动基于 **PyQt5** 的图形化界面，支持手动加载模型进行单样本反演实时展示：
 
 ```bash
-python -m demo.qt_host_demo
+python demo.qt_host_demo
 ```
