@@ -5,120 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ffab10fc-70ad-44e7-9827-4dd8fba2bbd5" name="Changes" comment="initial upload">
-      <change afterPath="$PROJECT_DIR$/models_pretrain/CurveFaultAModel/MSAE_Src3_TgtCurveFaultA_Epo100_20260404_164310.pth" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models_pretrain/CurveFaultAModel/MSAE_Src3_TgtCurveFaultA_Epo100_20260404_164310_ddnet70_backbone.pth" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models_pretrain/CurveFaultAModel/MSAE_Src3_TgtCurveFaultA_Epo100_20260404_164310_ddnet70_backbone_merged_for_finetune.pth" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models_pretrain/CurveFaultAModel/MSAE_Src3_TgtCurveFaultA_Epo100_20260404_164310_full_msae.pth" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models_pretrain/CurveFaultAModel/MSAE_Src3_TgtCurveFaultA_Epo100_20260404_164310_summary.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/results/CurveFaultA_gt.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/results/CurveFaultA_pd-a.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/results/CurveFaultA_pd-b.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/results/CurveFaultA_pd-b1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/results/loss.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/CurveFaultAResults/1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/CurveFaultAResults/Compare-three.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/CurveFaultAResults/[CompareBatch]CurveFaultA_20260402_213840.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/CurveFaultAResults/[CompareBatch]CurveFaultA_20260404_212813.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/CurveFaultAResults/[CompareBatch]CurveFaultA_20260404_212931.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/CurveFaultAResults/[CompareBatch]CurveFaultA_20260404_213542.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/CurveFaultAResults/[CompareBatch]CurveFaultA_20260404_213838.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/CurveFaultAResults/[CompareBatch]CurveFaultA_20260404_214815.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/CurveFaultAResults/[CompareBatch]CurveFaultA_20260404_215145.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/CurveFaultAResults/[CompareBatch]CurveFaultA_20260404_215339.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/CurveFaultAResults/[CompareBatch]CurveFaultA_20260404_220818.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/CurveFaultAResults/[CompareBatch]CurveFaultA_20260404_220944.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/CurveFaultAResults/[CompareBatch]CurveFaultA_20260404_221355.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/CurveFaultAResults/[CompareBatch]CurveFaultA_20260404_221518.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/CurveFaultAResults/[CompareBatch]CurveFaultA_20260404_221655.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/CurveFaultAResults/[CompareBatch]CurveFaultA_20260404_222528.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/CurveFaultAResults/[CompareBatch]CurveFaultA_20260404_233537.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/CurveFaultAResults/[CompareBatch]CurveFaultA_20260404_233901.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/CurveFaultAResults/[CompareSingle]CurveFaultA_20260402_213840.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/CurveFaultAResults/[CompareSingle]CurveFaultA_20260404_212813.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/CurveFaultAResults/[CompareSingle]CurveFaultA_20260404_212931.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/CurveFaultAResults/[CompareSingle]CurveFaultA_20260404_213542.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/CurveFaultAResults/[CompareSingle]CurveFaultA_20260404_213838.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/CurveFaultAResults/[CompareSingle]CurveFaultA_20260404_214815.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/CurveFaultAResults/[CompareSingle]CurveFaultA_20260404_215145.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/CurveFaultAResults/[CompareSingle]CurveFaultA_20260404_215339.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/CurveFaultAResults/[CompareSingle]CurveFaultA_20260404_220818.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/CurveFaultAResults/[CompareSingle]CurveFaultA_20260404_220944.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/CurveFaultAResults/[CompareSingle]CurveFaultA_20260404_221355.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/CurveFaultAResults/[CompareSingle]CurveFaultA_20260404_221518.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/CurveFaultAResults/[CompareSingle]CurveFaultA_20260404_221655.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/CurveFaultAResults/[CompareSingle]CurveFaultA_20260404_222528.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/CurveFaultAResults/[CompareSingle]CurveFaultA_20260404_233537.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/CurveFaultAResults/[CompareSingle]CurveFaultA_20260404_233901.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/CurveFaultAResults/[Metric]CurveFaultA_DDNet70_CurveFaultA_CLStage3_unused_pretrain_TrSize1000_AllEpo120_CurEpo120_summary.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/CurveFaultAResults/[Metric]CurveFaultA_DDNet70_CurveFaultA_CLStage3_used_pretrain_TrSize1000_AllEpo120_CurEpo120_summary.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/CurveFaultAResults/[SingleMetric]CurveFaultA_DDNet70_CurveFaultA_CLStage3_unused_pretrain_TrSize1000_AllEpo120_CurEpo120_summary.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/CurveFaultAResults/[SingleMetric]CurveFaultA_DDNet70_CurveFaultA_CLStage3_used_pretrain_TrSize1000_AllEpo120_CurEpo120_summary.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/CurveFaultAResults/self_sup/DDNet70/CurveFaultA/CurveFaultA_CLStage1_used_pretrain_TrSize1000_AllEpo10_CurEpo10.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/CurveFaultAResults/self_sup/DDNet70/CurveFaultA/CurveFaultA_CLStage1_used_pretrain_TrSize1000_AllEpo10_CurEpo5.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/CurveFaultAResults/self_sup/DDNet70/CurveFaultA/CurveFaultA_CLStage2_used_pretrain_TrSize1000_AllEpo10_CurEpo10.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/CurveFaultAResults/self_sup/DDNet70/CurveFaultA/CurveFaultA_CLStage2_used_pretrain_TrSize1000_AllEpo10_CurEpo5.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/CurveFaultAResults/self_sup/DDNet70/CurveFaultA/CurveFaultA_CLStage3_used_pretrain_TrSize1000_AllEpo120_CurEpo120.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/CurveFaultAResults/self_sup/DDNet70/CurveFaultA/CurveFaultA_CLStage3_used_pretrain_TrSize1000_AllEpo120_CurEpo60.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/CurveFaultAResults/self_sup/DDNet70/CurveFaultA/[Loss]CurveFaultA_CLStage1_used_pretrain_TrSize1000_AllEpo10.npy" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/CurveFaultAResults/self_sup/DDNet70/CurveFaultA/[Loss]CurveFaultA_CLStage2_used_pretrain_TrSize1000_AllEpo10.npy" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/CurveFaultAResults/self_sup/DDNet70/CurveFaultA/[Loss]CurveFaultA_CLStage3_used_pretrain_TrSize1000_AllEpo120.npy" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/CurveFaultAResults/self_sup/DDNet70/CurveFaultA/run_meta.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/CurveFaultAResults/unused_pretrain/DDNet70/CurveFaultA/CurveFaultA_CLStage1_unused_pretrain_TrSize1000_AllEpo10_CurEpo10.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/CurveFaultAResults/unused_pretrain/DDNet70/CurveFaultA/CurveFaultA_CLStage1_unused_pretrain_TrSize1000_AllEpo10_CurEpo5.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/CurveFaultAResults/unused_pretrain/DDNet70/CurveFaultA/CurveFaultA_CLStage2_unused_pretrain_TrSize1000_AllEpo10_CurEpo10.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/CurveFaultAResults/unused_pretrain/DDNet70/CurveFaultA/CurveFaultA_CLStage2_unused_pretrain_TrSize1000_AllEpo10_CurEpo5.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/CurveFaultAResults/unused_pretrain/DDNet70/CurveFaultA/CurveFaultA_CLStage3_unused_pretrain_TrSize1000_AllEpo120_CurEpo120.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/CurveFaultAResults/unused_pretrain/DDNet70/CurveFaultA/CurveFaultA_CLStage3_unused_pretrain_TrSize1000_AllEpo120_CurEpo60.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/CurveFaultAResults/unused_pretrain/DDNet70/CurveFaultA/[Loss]CurveFaultA_CLStage1_unused_pretrain_TrSize1000_AllEpo10.npy" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/CurveFaultAResults/unused_pretrain/DDNet70/CurveFaultA/[Loss]CurveFaultA_CLStage2_unused_pretrain_TrSize1000_AllEpo10.npy" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/CurveFaultAResults/unused_pretrain/DDNet70/CurveFaultA/[Loss]CurveFaultA_CLStage3_unused_pretrain_TrSize1000_AllEpo120.npy" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/CurveFaultAResults/unused_pretrain/DDNet70/CurveFaultA/run_meta.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/CurveFaultAResults/used_pretrain/DDNet70/CurveFaultA/CurveFaultA_CLStage1_used_pretrain_TrSize1000_AllEpo10_CurEpo10.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/CurveFaultAResults/used_pretrain/DDNet70/CurveFaultA/CurveFaultA_CLStage1_used_pretrain_TrSize1000_AllEpo10_CurEpo5.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/CurveFaultAResults/used_pretrain/DDNet70/CurveFaultA/CurveFaultA_CLStage2_used_pretrain_TrSize1000_AllEpo10_CurEpo10.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/CurveFaultAResults/used_pretrain/DDNet70/CurveFaultA/CurveFaultA_CLStage2_used_pretrain_TrSize1000_AllEpo10_CurEpo5.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/CurveFaultAResults/used_pretrain/DDNet70/CurveFaultA/CurveFaultA_CLStage3_used_pretrain_TrSize1000_AllEpo120_CurEpo120.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/CurveFaultAResults/used_pretrain/DDNet70/CurveFaultA/CurveFaultA_CLStage3_used_pretrain_TrSize1000_AllEpo120_CurEpo60.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/CurveFaultAResults/used_pretrain/DDNet70/CurveFaultA/[Loss]CurveFaultA_CLStage1_used_pretrain_TrSize1000_AllEpo10.npy" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/CurveFaultAResults/used_pretrain/DDNet70/CurveFaultA/[Loss]CurveFaultA_CLStage2_used_pretrain_TrSize1000_AllEpo10.npy" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/CurveFaultAResults/used_pretrain/DDNet70/CurveFaultA/[Loss]CurveFaultA_CLStage3_used_pretrain_TrSize1000_AllEpo120.npy" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/CurveFaultAResults/used_pretrain/DDNet70/CurveFaultA/run_meta.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/ddnet.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CHANGELOG_CURRENT_SESSION.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/compare_models.batch.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/compare_models.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/compare_models.pretrain.batch.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/compare_models.pretrain.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/compare_models.pretrain.single.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/compare_models.single.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/qt_host_demo.py" beforeDir="false" afterPath="$PROJECT_DIR$/demo/qt_host_demo.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/plans/README-System_Reminder.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/plans/metric-analysis-cache-design.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/plans/pretrain-transfer-design.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/plans/pretrain-transfer-implementation-plan.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/plans/system-reminder-design.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/plans/system-reminder-implementation.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/三种训练方法对比说明.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/使用指南.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/网络结构.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/func/datasets_reader.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/func/device_selector.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/func/test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/func/utils.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/model_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/model_test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/net/DDNet.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/net/DDNet.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/net/FCNVMB.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/net/InversionNet.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/path_config.py" beforeDir="false" afterPath="$PROJECT_DIR$/path_config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -133,6 +21,12 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -159,16 +53,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "D:/bishe/ddnet",
-    "settings.editor.selected.configurable": "settings.sync"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/bishe/ddnet&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;settings.sync&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\bishe\ddnet" />
